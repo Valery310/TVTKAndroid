@@ -25,7 +25,7 @@ namespace TVTKAndroid
             fab.Click += FabOnClick;
 
             var view =  FindViewById<VideoView>(Resource.Id.videoView1);
-            view.setvi
+           
             var toolbar1 = FindViewById<Toolbar>(Resource.Id.toolbar);
             //https://metanit.com/java/android/11.1.php
 
